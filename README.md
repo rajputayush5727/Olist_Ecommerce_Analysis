@@ -87,7 +87,13 @@ The dataset contains approximately 100K orders and multiple related tables cover
 ---
 
 ## 📊 Power BI Dashboard
+### Executive Sales Dashboard
 
+![Executive Sales Dashboard](Executive_Dashboard.png)
+
+### Customer & Operations Dashboard
+
+![Customer & Operations Dashboard](Customer_Operations_Dashboard.png)
 ### Executive Sales Dashboard
 
 The first dashboard provides an overview of:
